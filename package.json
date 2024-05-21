@@ -1,6 +1,6 @@
 {
   "name": "code_with_aliyan_word_counter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Word Counter project using Typescript",
   "main": "index.js",
   "type": "module",
