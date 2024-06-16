@@ -1,6 +1,6 @@
 {
   "name": "code_with_aliyan_word_counter",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Word Counter project using Typescript",
   "main": "index.js",
   "type": "module",
@@ -15,6 +15,7 @@
   "author": "Aliyan Jabbar",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.3.0",
     "inquirer": "^9.2.19"
   },
   "devDependencies": {
